@@ -7,18 +7,24 @@ _Repositorio del grupo TEAM JSJ del curso Taller de construcción de sistemas_
 
 ### 📋 Pre-requisitos 
 
-_Necesitamos librerias como pandas, re, unicode y psycopg2_
-
+Instalamos las librerias mediante pip
+```
+pip install requeriments.txt
+```
 
 ### 🔧 Instalación 
 
-_Ejecutamos el programa por semana(1,2,3, ...)_
+Ejecutar los sprints en un entorno de desarrollo
+
+```
+python sprint.py
+```
 
 
 ---
 ## 🛠️ Construido con 🛠️
 
-* [Python](https://docs.python.org/3/) - Uno de los lengaujes mas usados
+* [Python](https://docs.python.org/3/) - Uno de los lenguajes mas usados
 
 
 ---

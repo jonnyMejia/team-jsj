@@ -1,0 +1,1 @@
+from .ofertadetalle import OfertaDetalle
